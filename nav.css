@@ -1,0 +1,16 @@
+.nav{
+    justify-content: space-evenly;
+    display: flex;
+    background-color: tomato;
+    color: aqua;
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 30px;
+    
+}
+body{
+    color: white;
+ background-image: url();
+    padding: 10px;
+
+}
